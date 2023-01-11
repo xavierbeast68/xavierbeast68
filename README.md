@@ -1,5 +1,5 @@
-<h1 >Hi 👋, This is <span style="font-family: Sarpanch, Arial, Helvetica, sans-serif;">XavierBeast</span></h1>
-<h3  style="font-family: Sarpanch, Arial, Helvetica, sans-serif;">AVOIDING COMPLEXITY, REDUCES BUGS!</h3>
+<h1  style="font-family: Sarpanch, Arial, Helvetica, sans-serif;">AVOIDING COMPLEXITY, REDUCES BUGS!</h1>
+<h3 >Hi 👋, This is <span style="font-family: Sarpanch, Arial, Helvetica, sans-serif;">XavierBeast</span></h3>
 
 <h3 align="left">Connect with me:</h3>
 
