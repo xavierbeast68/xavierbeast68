@@ -10,4 +10,8 @@
 
 <a href="https://leetcode.com/xavierbeast68/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="xavierbest68" height="40" width="40"/>xavierbeast68</a>
 
-<a href="https://auth.geeksforgeeks.org/user/xavierbeast68/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="xavierbest68" height="40" width="40" /> xavierbeast68</a>
+
+- <a href="https://auth.geeksforgeeks.org/user/xavierbest68" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="xavierbest68" height="40" width="40" /> xavierbeast68</a>
+
+
+- <a href="https://www.codingninjas.com/codestudio/profile/xavierbeast68" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Coding_Ninjas.png" alt="xavierbest68" height="40" width="40" /> xavierbeast68</a>
