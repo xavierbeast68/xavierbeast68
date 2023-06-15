@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/sudhanshu-dubey-3a87581ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Sudhanshu Dubey"/></a>
 
 
-<a href="https://leetcode.com/xavierbeast68/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="xavierbest68" height="40" width="40"/>xavierbeast68</a>
+- <a href="https://leetcode.com/xavierbeast68/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="xavierbest68" height="40" width="40"/>xavierbeast68</a>
 
 
 - <a href="https://auth.geeksforgeeks.org/user/xavierbest68" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="xavierbest68" height="40" width="40" /> xavierbeast68</a>
