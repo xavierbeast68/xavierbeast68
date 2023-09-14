@@ -29,3 +29,6 @@
 ### Stats - 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xavierbeast68?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
+
+### Activity -
+![LeetCode Stats](https://leetcard.jacoblin.cool/xavierbeast68?theme=dark&font=Red%20Hat%20Display&ext=contest)
